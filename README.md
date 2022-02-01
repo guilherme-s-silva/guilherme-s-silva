@@ -1,5 +1,5 @@
 ### Olá! 👋 Me chamo Guilherme Silva e estou dando os primeiros passos em minha carreira na tecnologia! 
-##Estou aprendendo Desenvolvimento Web Fullstack
+**Estou aprendendo Desenvolvimento Web Fullstack**
 
 <div align="center">
   <a href="https://github.com/guilherme-s-silva">
