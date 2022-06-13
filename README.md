@@ -1,23 +1,45 @@
 <h2 align="center"> Olá! 👋 Me chamo Guilherme Silva e estou dando os primeiros passos em minha carreira na tecnologia! </h2>
-<h4 align="center">Estou aprendendo Desenvolvimento Web Fullstack</h4>
-
-<div align="center">
-  <a href="https://github.com/guilherme-s-silva">
-    
-<div align="center"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"> 
-</div><br>
-
+<h4 align="left">Estou aprendendo Desenvolvimento Web Fullstack</h4>
+ 
+<br>
+ 
+<div align="left">
+  <div height="70">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <span>HTML</span>
+  </div>
+  
+  <div height="60">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <span>CSS</span>
+  </div>
+  
+  <div height="60">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <span>Javascript</span>
+  </div>
+  
+  <div height="60">
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
+    <span>Node.js</span>
+  </div>
+  
+  <div height="60">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <span>React.js</span>
+  </div>
+  
+  <div height="60">
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"> 
+    <span>PostgreSQL</span>
+  </div> 
+   
+</div>
+<br>
 <hr>
 <div align="center"> 
     <a href="https://www.linkedin.com/in/guilherme-s-silva22/" target="_blank" style='align:center'><img height="40" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-   <!-- ![Snake animation](https://github.com/guilherme-s-silva/guilherme-s-silva/blob/output/github-contribution-grid-snake.svg) -->
+  
 </div>
  
  <hr>   
