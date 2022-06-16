@@ -42,9 +42,10 @@
     <p>Conecte-se comigo no Linkedin!</p>
     <a href="https://www.linkedin.com/in/guilherme-s-silva22/" target="_blank" style='align:center'><img height="40" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+<hr>
  
- <hr>   
- <img height="130em" src="https://github-readme-stats.vercel.app/api?username=guilherme-s-silva&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
- <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-s-silva&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-
+<div align="center">
+   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=guilherme-s-silva&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-s-silva&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+</div>
 
