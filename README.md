@@ -37,6 +37,18 @@
    
 </div>
 
+<h4>Tecnologias que pretendo aprender:</h4>
+<div>
+    <div>
+      <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+      <span>Java</span>
+    </div>
+    <div>
+      <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+      <span>TypeScript</span>
+    </div>
+</div>
+  
 <hr>
 <div align="center"> 
     <p>Conecte-se comigo no Linkedin!</p>
