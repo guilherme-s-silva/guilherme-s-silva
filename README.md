@@ -37,7 +37,7 @@
    
 </div>
 
-<h4>Tecnologias que pretendo aprender:</h4>
+<h4>Tecnologias que pretendo aprender/tenho curiosidade:</h4>
 <div>
     <div>
       <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
@@ -46,6 +46,10 @@
     <div>
       <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
       <span>TypeScript</span>
+    </div>
+    <div>
+      <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+      <span>Python</span>
     </div>
 </div>
   
