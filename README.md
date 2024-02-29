@@ -61,7 +61,7 @@
 <hr>
  
 <div align="center">
-   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=guilherme-s-silva&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=guilherme-s-silva&theme=chartreuse-dark&show_icons=true&include_all_commits=true"/>
    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-s-silva&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
