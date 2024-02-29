@@ -1,6 +1,6 @@
 <h2 align="center"> Olá! 👋 Me chamo Guilherme Silva e estou dando os primeiros passos em minha carreira na tecnologia! </h2>
 <p align="left">
-  Tenho 22 anos e estou aprendendo Desenvolvimento Web Fullstack. Planejo cursar Análise e Desenvolvimento de Sistemas em breve. Atualmente estou em busca da minha primeira experiência profissional!
+  Tenho 24 anos e estou aprendendo Desenvolvimento Web Fullstack. Planejo cursar Análise e Desenvolvimento de Sistemas em breve. Atualmente estou em busca da minha primeira experiência profissional!
 </p>
  
 <h4> Tecnologias que estou aprendendo: </h4>
