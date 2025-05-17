@@ -2,54 +2,25 @@
 <p align="left">
   Tenho 25 anos e atualmente estou cursando Sistemas de Informação na Universidade Federal da Bahia.
 </p>
- 
-<h4> Tecnologias que estou aprendendo: </h4>
-<div align="left">
-  <div>
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <span>HTML</span>
-  </div>
-  
-  <div>
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <span>CSS</span>
-  </div>
-  
-  <div>
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <span>Javascript</span>
-  </div>
-  
-  <div>
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
-    <span>Node.js</span>
-  </div>
-  
-  <div>
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <span>React.js</span>
-  </div>
-  
-  <div>
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"> 
-    <span>PostgreSQL</span>
-  </div> 
-   
-</div>
 
-<h4>Tecnologias que pretendo aprender/tenho curiosidade:</h4>
+<h4>Tecnologias que tenho interesse:</h4>
+
 <div>
     <div>
-      <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-      <span>Java</span>
-    </div>
-    <div>
-      <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-      <span>TypeScript</span>
+      <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
+      <span>Node.js</span>
     </div>
     <div>
       <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
       <span>Python</span>
+    </div>
+    <div>
+      <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <span>Javascript</span>
+    </div>
+    <div>
+      <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+      <span>Java</span>
     </div>
 </div>
   
